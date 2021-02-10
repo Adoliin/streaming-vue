@@ -1,5 +1,5 @@
 # Streaming vue
-A responsive streaming website built in VueJS, TailwindCSS and Plyr.
+A responsive streaming web app built in VueJS, TailwindCSS and Plyr.
 
 ## Link
 https://adoliin.github.io/streaming-vue/
